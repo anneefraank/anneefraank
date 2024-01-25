@@ -1,12 +1,13 @@
 # Olá seja muito bem-vindo(a) ao meu portifólio
 
-Aqui será um espaço para meus projetos desenvolvidos. Estou fazendo cursos para fazer contribuições melhores. 
+Aqui será um espaço para meus projetos desenvolvidos.
+Estou fazendo cursos para fazer contribuições melhores. 
 Fique a vontade para dar sugestões!
 
 ## 🚀 Sobre mim
 
-Meu nome é Anne Frank,
-sou recém formada em Engenharia de Computação. Realizei dois anos de estágio na área de desenvolvimento de projetos de inovação, onde aprendi muito e conheci muitas tecnologias usadas no mercado de trabalho. Atualmente sou desenvolvedora júnior, no meu trabalho não faço somente frontend, sou apta a aprender a tecnologia/ linguagem que a arquitetura do projeto precisa.
+Sou recém formada em Engenharia de Computação. Realizei dois anos de estágio na área de desenvolvimento de projetos de inovação, onde aprendi muito e conheci muitas tecnologias usadas no mercado de trabalho. 
+Atualmente sou desenvolvedora júnior, no meu trabalho não faço somente frontend, sou apta a aprender a tecnologia/ linguagem que a arquitetura do projeto precisa.
 
 ## 🛠 Tecnologias
 
