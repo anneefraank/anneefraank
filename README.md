@@ -1,7 +1,8 @@
-# Olá seja muito bem-vindo(a) ao meu portifólio
+# Olá seja muito bem-vindo(a) ao meu portfólio
 
 Aqui será um espaço para meus projetos desenvolvidos.
-Estou fazendo cursos para fazer contribuições melhores. 
+Estou fazendo cursos para fazer contribuições melhores.
+
 Fique a vontade para dar sugestões!
 
 ## 🚀 Sobre mim
